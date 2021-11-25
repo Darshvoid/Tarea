@@ -31,5 +31,5 @@ void CarrosPits()
         std::cout << "Carro Amarillo: " << carroAmarillo << "KM\n";
         std::cout << "Carro Rojo: " << carroRojo << "KM\n";
     }
-    std::cout << "\n\nLos dos han pasado por un lado del otro!";
+    std::cout << "\n\nLos dos han pasado por un lado del otro!"; //done
 }
